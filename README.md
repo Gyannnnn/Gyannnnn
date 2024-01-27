@@ -1,5 +1,4 @@
-![My Remote Image](https://chinese.freecodecamp.org/news/content/images/2022/09/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png
-)
+![My Remote Image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
