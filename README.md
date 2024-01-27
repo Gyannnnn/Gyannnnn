@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
