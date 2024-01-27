@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF7EazwfHw/V64YpX6Hjix01qmBR9pylQ/edit?utm_content=DAF7EazwfHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://drive.google.com/file/d/1ceefuWChpQbi_bmlbTNTgLyz4Owxrdie/view?usp=drivesdk)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
