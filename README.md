@@ -1,4 +1,4 @@
-![My Remote Image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
+![My Remote Image](https://github.com/Gyannnnn/img/blob/main/GYANA.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
