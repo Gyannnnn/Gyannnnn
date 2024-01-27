@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1ceefuWChpQbi_bmlbTNTgLyz4Owxrdie/view?usp=drivesdk)
+[![MasterHead](https://images.app.goo.gl/ru4NhXorwKpVx3KW8)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
