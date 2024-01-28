@@ -1,4 +1,4 @@
-![My Remote Image](https://github.com/Gyannnnn/img/blob/main/GYANA.png?raw=true)
+![My Remote Image](https://github.com/Gyannnnn/vdo/blob/main/newup.mp4)
 
 <h1 align="center">Hi 👋, I'm Gyanranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
