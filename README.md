@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help On Responsive Web Design<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about Web Devdelopment<br>
 
+![Profilecounter](https://komarev.com/ghpvc/?username=Gyannnnn)<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyan.css) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GyanaranjanPatra) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gyan-css) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hi_gyaan) 
