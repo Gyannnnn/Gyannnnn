@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help On Responsive Web Design<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about Web Devdelopment<br>
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help On Responsive Web Design<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about Web Devdelopment<br>
 
 
 ## 🌐 Socials:
