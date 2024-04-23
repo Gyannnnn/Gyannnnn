@@ -22,8 +22,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
+ - name: generate-snake-game-from-github-contribution-grid
+ uses: Platane/snk@v3.2.0
+            
 
 
 
