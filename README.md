@@ -1,7 +1,6 @@
 ![alt text](https://github.com/Gyannnnn/img2/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.gif)
 
-
-
+![](https://komarev.com/ghpvc/?username=Gyannnnn&label=PROFILE+VIEWS)
 ## 🌐 Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/gyanaranjan-patra-0b17a4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
