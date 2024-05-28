@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gyannnnn/img2/blob/main/ConnorHamilton.gif)
+![alt text](https://github.com/Gyannnnn/img2/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.gif)
 
 
 
