@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gyannnnn/img2/blob/main/gyan.css.gif)
+![alt text](https://github.com/Gyannnnn/img2/blob/main/github.gif)
 
 ![](https://komarev.com/ghpvc/?username=Gyannnnn&label=PROFILE+VIEWS)
 
