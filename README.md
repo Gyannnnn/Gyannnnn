@@ -2,22 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Gyannnnn&label=PROFILE+VIEWS)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gyanranjan
-==================================================================================================================================
 
-MERN Stack
-----------
 
-Experienced in full-stack development with the MERN stack, specializing in secure authentication, responsive UI with Material UI and Tailwind CSS, and robust API integrations using Express and Zod validation. Proficient in database management with MongoDB and collaboration via Git/GitHub workflows. Skilled in JavaScript, TypeScript, and Linux environment management, with a continuous drive to learn and grow through the 100x Dev Cohort.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [hi.gyanaranjanpatra@gmail.com](mailto:hi.gyanaranjanpatra@gmail.com )
-* 🧠  I'm learning Cloud
-* 🤝  I'm open to collaborating on Full Stack Projects (MERN)
-* ⚡  I love to code
 
-<a href="https://www.github.com/gyannnnn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gyannnnn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
 
 ### Skills
 
@@ -29,10 +20,8 @@ src="https://img.shields.io/github/followers/gyannnnn?logo=github&style=for-the-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gyannnnn&theme=dark)](https://git.io/streak-stats)
 
 
-### Socials
 
 
 
 
-<p align="left"> <a href="https://www.github.com/gyannnnn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/gyaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
