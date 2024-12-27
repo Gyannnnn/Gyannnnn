@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gyannnnn/img2/blob/main/github.gif)
+
 
 ![](https://komarev.com/ghpvc/?username=Gyannnnn&label=PROFILE+VIEWS)
 
@@ -10,7 +10,7 @@
 
 
 
-### Skills
+
 
 
 <p align="left">
@@ -18,6 +18,7 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gyannnnn&theme=dark)](https://git.io/streak-stats)
+![alt text](https://github.com/Gyannnnn/img2/blob/main/github.gif)
 
 
 
